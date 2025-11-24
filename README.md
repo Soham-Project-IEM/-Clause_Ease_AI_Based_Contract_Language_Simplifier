@@ -1,0 +1,1 @@
+# -Clause_Ease_AI_Based_Contract_Language_Simplifier
